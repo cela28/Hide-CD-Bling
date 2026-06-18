@@ -1,4 +1,5 @@
 ## Title: Hide CD Bling
+## Author: cela
 ## Interface: 120007
 ## Version: 1.0.0
 ## Notes: Suppresses bling animation on Essential and Utility cooldown bars
